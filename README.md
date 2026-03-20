@@ -1,2 +1,3 @@
-# pro-bug-tracker-8ljw
-Pro Bug Tracker with automated issue comments
+# Pro Bug Tracker 8Ljw
+
+Automated issue comment bot repository.
